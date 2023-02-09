@@ -1,4 +1,8 @@
 .header {
-	background: blueviolet;
-	height: 80px;
+	display: flex;
+	justify-content: center;
+	/* border: 1px solid blue; */
+	/* height: 80px; */
+	padding: 1.25rem 0;
+	background: yellowgreen;
 }
