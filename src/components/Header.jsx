@@ -5,11 +5,11 @@ import logoUrl from "../assets/images/logo.svg"
 export function Header() {
 	return (
 		<header className={styles.header}>
-			<nav className="nav-list">
+			<nav className={styles.navList}>
 				<a className="logo" href="/">
 					<img src={logoUrl} alt="logo do Shortly" />
 				</a>
-				<ul className="nav-list-item">
+				<ul>
 					<li>
 						<a href="#Features">Features</a>
 					</li>
@@ -19,11 +19,17 @@ export function Header() {
 					<li>
 						<a href="#Resources">Resources</a>
 					</li>
+				</ul>
+			</nav>
+			<nav className={styles.navListLogin}>
+				<ul>
 					<li>
 						<a href="#Login">Login</a>
 					</li>
-					<li>
-						<a href="#SignUp">Sign Up</a>
+					<li className={styles.signUpButton}>
+						<a className={styles.signUp} href="#signup">
+							Sign Up
+						</a>
 					</li>
 				</ul>
 			</nav>
