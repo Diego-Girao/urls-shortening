@@ -1,6 +1,7 @@
 import { Header } from "./components/Header"
-import "./global.css"
 import { Hero } from "./components/Hero"
+import { Footer } from "./components/Footer"
+import "./global.css"
 
 export function App() {
 	return (
@@ -18,7 +19,7 @@ export function App() {
 				aperiam, hic molestiae, cupiditate incidunt amet et error aliquam maxime
 				eligendi voluptates corrupti eaque voluptatum. Quam!
 			</span>
-			<div></div>
+			<Footer />
 		</div>
 	)
 }
