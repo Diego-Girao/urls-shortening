@@ -1,0 +1,5 @@
+.hero {
+	background: var(--dark-violet);
+	color: var(--white);
+	padding: 12.5rem;
+}
