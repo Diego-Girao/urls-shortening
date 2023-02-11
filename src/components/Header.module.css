@@ -16,7 +16,7 @@
 .navList > ul {
 	list-style: none;
 	display: flex;
-	padding: 0 0 0 20px;
+	padding: 0 0 0 1.25rem;
 }
 
 .navList li {
@@ -71,7 +71,7 @@ a:hover {
 	border-radius: 50px;
 	color: var(--white);
 	cursor: pointer;
-	padding: 10px 20px;
+	padding: 0.625rem 1.25rem;
 	text-align: center;
 }
 
