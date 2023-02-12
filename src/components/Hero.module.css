@@ -1,5 +1,5 @@
 .hero {
-	padding: 5.5rem 0 5.5rem 0;
+	padding: 5.5rem 4rem 5.5rem 4rem;
 	display: grid;
 	grid-template-columns: 25% auto;
 	justify-content: space-around;
