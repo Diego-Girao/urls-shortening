@@ -1,0 +1,80 @@
+.contentHeader {
+	background: url("/src/assets/images/bg-shorten-desktop.svg") no-repeat;
+	background-color: var(--dark-violet);
+	height: 5.125rem;
+	width: 50vw;
+	text-align: center;
+	margin: 0 auto;
+	border-radius: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+}
+
+.contentHeader input {
+	width: 80%;
+	height: 3rem;
+	padding: 0.875rem auto;
+	border-radius: 5px;
+	font-size: 1.125rem;
+}
+
+.contentHeader button {
+	background: var(--cyan);
+	border: none;
+	border-radius: 5px;
+	color: var(--white);
+	cursor: pointer;
+	padding: 0.625rem 1.25rem;
+	text-align: center;
+	transition: 0.4s;
+}
+
+.contentHeader button:hover {
+	color: var(--dark-violet);
+	background-color: var(--light-grayish-violet);
+}
+
+.contentMain {
+	background: var(--light-grayish-violet);
+	margin-top: -2.5rem;
+	padding: 10rem 0 0 0;
+	text-align: center;
+	position: absolute;
+	z-index: -1;
+	width: 100%;
+}
+
+.contentMain p {
+	color: var(--grayish-violet);
+	text-align: center;
+	font-weight: 700;
+}
+
+.cards {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	height: 30vh;
+	justify-content: center;
+}
+
+.cards div {
+	margin: 2.5rem;
+	padding: 0.625rem;
+	background: var(--white);
+	border-radius: 10px;
+}
+
+.cards img {
+	background: var(--dark-violet);
+	width: 3.125rem;
+	height: 3.125rem;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 6.25rem;
+	vertical-align: middle;
+	padding: 0.625rem;
+	position: absolute;
+	margin-top: -35px;
+	margin-left: -200px;
+}
