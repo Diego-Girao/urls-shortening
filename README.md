@@ -1,5 +1,15 @@
 # Frontend Mentor Challenge - URL Shortening
 
+<br>
+<div align="center">
+
+<img src="https://img.shields.io/website?down_color=tomato&down_message=offline&label=urls-shortening&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Furls-shortening.netlify.app%2F" alt="website badge" />
+<img src="https://img.shields.io/github/issues/Diego-Girao/urls-shortening?color=cyan&style=plastic" alt="issue badge" />
+<img src="https://img.shields.io/netlify/7ee65195-7333-4042-9938-cba38889cf73?style=plastic" alt="netlify badge" />
+
+</div>
+<br>
+
 Esse template foi utilizado para a criação do Segundo Projeto da mentoria **Conquiste Sua Vaga** , para que assim pudesse ser exercitado algumas habilidades de Frontend e assim poder melhorar a base de conhecimento e evoluir de forma consistente.
 
 ## Sumário
@@ -30,7 +40,7 @@ Esse template foi utilizado para a criação do Segundo Projeto da mentoria **Co
 
 ### Screenshot
 
-[Preview da aplicação](https://user-images.githubusercontent.com/70491871/218337411-47d92dc7-21ea-4a1c-8c07-4379aa353956.webm)
+&#127909; [Preview da aplicação](https://user-images.githubusercontent.com/70491871/218337411-47d92dc7-21ea-4a1c-8c07-4379aa353956.webm)
 
 ## Meu processo
 
@@ -44,9 +54,12 @@ Esse template foi utilizado para a criação do Segundo Projeto da mentoria **Co
 
 ### Stacks utilizadas
 
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=Plastic&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=Plastic&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=Plastic=javascript&logoColor=%23F7DF1E) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=Plastic&logo=react&logoColor=%2361DAFB) | ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=Plastic&logo=vite&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=Plastic&logo=git&logoColor=white) | ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=Plastic&logo=netlify&logoColor=#00C7B7) |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: |
+
 - [x] HTML5 Semântico
 - [x] CSS Module
-- [x] Flexbox
+- [x] CSS Flexbox
 - [x] CSS Grid
 - [x] JavaScript
 - [x] React
@@ -68,10 +81,9 @@ Algumas melhorias já estão mapeadas para próxima release, são as seguintes:
 - [ ] Utilizar pré processadores CSS - Em análise
 - [ ] Integração com a API de encurtar URL
 
-## Author
+## Author - Diego Girão
 
-- Github - [Diego Girao](https://github.com/diego-girao)
-- Linkedin - [Diego Girao](https://linkedin.com/in/diego-girao/)
+[![Diego Girao](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diego-girao) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-girao/)
 
 ## Agradecimentos
 
