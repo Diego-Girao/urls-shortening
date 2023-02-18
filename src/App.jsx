@@ -6,11 +6,13 @@ import "./global.css"
 
 export function App() {
 	return (
-		<div>
+		<>
 			<Header />
-			<Hero />
-			<Content />
+			<main>
+				<Hero />
+				<Content />
+			</main>
 			<Footer />
-		</div>
+		</>
 	)
 }
