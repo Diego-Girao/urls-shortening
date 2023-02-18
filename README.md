@@ -40,9 +40,9 @@ Esse template foi utilizado para a criação do Segundo Projeto da mentoria **Co
 
 - Persistir os dados no navegador
 
-### Screenshot
+### Screenshot &#127909;
 
-&#127909; [Preview da aplicação](https://user-images.githubusercontent.com/70491871/218337411-47d92dc7-21ea-4a1c-8c07-4379aa353956.webm)
+https://user-images.githubusercontent.com/70491871/219879076-c24b4fb3-9367-49ff-ab18-1cadbf924f90.webm
 
 ## Meu processo
 
