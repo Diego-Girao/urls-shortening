@@ -2,7 +2,9 @@
 
 <br>
 <div align="center">
+<a href="https://urls-shortening.netlify.app"><img src="https://img.shields.io/badge/DEPLOY-https%3A%2F%2Furls--shortening.netlify.app%2F-cyan?style=plastic&logo=netlify" /></a>
 
+<br>
 <img src="https://img.shields.io/website?down_color=tomato&down_message=offline&label=urls-shortening&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Furls-shortening.netlify.app%2F" alt="website badge" />
 <img src="https://img.shields.io/github/issues/Diego-Girao/urls-shortening?color=cyan&style=plastic" alt="issue badge" />
 <img src="https://img.shields.io/netlify/7ee65195-7333-4042-9938-cba38889cf73?style=plastic" alt="netlify badge" />
@@ -11,8 +13,6 @@
 <br>
 
 Esse template foi utilizado para a criação do Segundo Projeto da mentoria **Conquiste Sua Vaga** , para que assim pudesse ser exercitado algumas habilidades de Frontend e assim poder melhorar a base de conhecimento e evoluir de forma consistente.
-
-Deploy: https://urls-shortening.netlify.app/
 
 ## Sumário
 
@@ -85,7 +85,7 @@ Algumas melhorias já estão mapeadas para próxima release, são as seguintes:
 
 ## Author - Diego Girão
 
-[![Diego Girao](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diego-girao) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-girao/)
+[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diego-girao) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-girao/)
 
 ## Agradecimentos
 
