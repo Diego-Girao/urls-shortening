@@ -12,6 +12,8 @@
 
 Esse template foi utilizado para a criação do Segundo Projeto da mentoria **Conquiste Sua Vaga** , para que assim pudesse ser exercitado algumas habilidades de Frontend e assim poder melhorar a base de conhecimento e evoluir de forma consistente.
 
+Deploy: https://urls-shortening.netlify.app/
+
 ## Sumário
 
 - [Overview](#overview)
